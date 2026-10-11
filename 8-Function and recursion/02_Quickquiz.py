@@ -2,7 +2,7 @@
 
 # name=input("Enter your name:")
 
-def greet(name,ending):# passing by argunment 
+def greet(name,ending="Tahnks bhaii"):# passing by argunment 
     print("Good morning," + name)
     print(ending)
-greet("Saloni","Thanks")
+greet("Sumit","Thanks")
